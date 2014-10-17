@@ -1,0 +1,1 @@
+This is some scrap code I've worked on, perhaps on a creative or overkill tangent, then decided not to use. It is often rough and may not have been tested or may not even compile yet. It's almost more like pseudocode in the sense that it can be an outline or a template that can be incorporated into other pieces of code to be of potential use at some later point in time.
